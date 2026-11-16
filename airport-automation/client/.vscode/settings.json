@@ -1,0 +1,11 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "/Users/ivan/.local/airport-tools/jdk-17.0.21+9/Contents/Home",
+      "default": true
+    }
+  ],
+  "maven.executable.path": "/Users/ivan/.local/airport-tools/apache-maven-3.9.9/bin/mvn"
+}

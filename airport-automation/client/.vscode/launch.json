@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Запустить сервер",
+      "request": "launch",
+      "mainClass": "com.airport.server.ServerMain",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Запустить клиент",
+      "request": "launch",
+      "mainClass": "com.airport.client.ClientMain",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
